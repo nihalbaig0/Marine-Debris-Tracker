@@ -14,4 +14,6 @@ This Project is capable of detecting Marine Debris given an Image or Video. Ther
 
 - **Fine-Tuned Model:** We trained our fine-tuned model on an open-source dataset.
 
+---
+*[Video Demo]([https://www.google.com](https://www.youtube.com/watch?v=-AU7yHlmT-o)https://www.youtube.com/watch?v=-AU7yHlmT-o)*
 
